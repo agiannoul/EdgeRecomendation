@@ -2,4 +2,9 @@
 *.tsv
 *.ipynb_checkpoints
 *.pkl
+pysparnn/*
+env/*
+.virtual_documents/*
+clusterIndex.bin
+new_edges.txt
 !nnNodes.pkl
