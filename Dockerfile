@@ -3,6 +3,7 @@ FROM python:3.10.0
 RUN mkdir "/project"
 WORKDIR "/project"
 COPY offline.ipynb offline.ipynb
+COPY online.ipynb online.ipynb
 COPY requirements.txt requirements.txt
 RUN python -m pip install --upgrade pip
 RUN pip install -r requirements.txt
