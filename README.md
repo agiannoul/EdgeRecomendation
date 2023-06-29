@@ -1,6 +1,6 @@
-# Enhanced Edge Recommendation, a case study:  predicting links in Wikipedia sites
+# Enhanced Edge Prediction, a case study:  predicting links in Wikipedia sites
 
-Implementation of the techniques presented in the paper "Enhanced Edge Recommendation, a case study:  predicting links in Wikipedia sites" for the competition: https://www.kaggle.com/competitions/dsaa-2023-competition
+Implementation of the techniques presented in the paper "Enhanced Edge Prediction, a case study:  predicting links in Wikipedia sites" for the competition: https://www.kaggle.com/competitions/dsaa-2023-competition
 
 ## Installation
 
