@@ -9,6 +9,7 @@ The preferred way to install requirements is via anaconda environment:
 ```bash
 conda create -n edgerecom
 conda activate edgerecom
+conda install pip
 pip install -r requirements.txt
 conda install jupyter                # install jupyter + notebook
 ```
@@ -22,7 +23,6 @@ python setup.py install
 Open jupyter notebooke
 ```bash
 cd ..
-conda activate edgerecom
 jupyter-notebook
 ```
 ## Usage
