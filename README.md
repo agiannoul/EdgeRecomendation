@@ -18,6 +18,12 @@ git clone https://github.com/facebookresearch/pysparnn.git
 cd pysparnn
 python setup.py install
 ```
+
+Open jupyter notebooke
+```bash
+cd ..
+jupyter-notebook
+```
 ## Usage
 
 **D.ipyndb** : Implementation for TF-IDF vector creation using description and prediction based on cosine similarity (presented in paper as D)
