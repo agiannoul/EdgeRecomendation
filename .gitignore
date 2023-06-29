@@ -8,4 +8,6 @@ env/*
 clusterIndex.bin
 new_edges.txt
 !nnNodes.pkl
-
+!enhance_vectors_with_labels.csv
+!enhance_vectors_test.csv
+!test_similarities.csv
