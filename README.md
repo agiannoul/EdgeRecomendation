@@ -22,6 +22,7 @@ python setup.py install
 Open jupyter notebooke
 ```bash
 cd ..
+conda activate edgerecom
 jupyter-notebook
 ```
 ## Usage
