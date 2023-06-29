@@ -7,9 +7,10 @@ Implementation of the techniques presented in the paper "Enhanced Edge Recommend
 The preferred way to install requirements is via anaconda environment:
 
 ```bash
-conda create -n edgerecom python =3.7
+conda create -n edgerecom
 conda activate edgerecom
 pip install -r requirements.txt
+conda install jupyter                # install jupyter + notebook
 ```
 Installing approximate nearest neighbors Facebook research indexer (pysparn):
 ```bash
