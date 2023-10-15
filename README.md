@@ -3,6 +3,8 @@
 ## 2nd Place on DSAA 2023 Data Science Competition
 Implementation of the techniques presented in the paper "Enhanced Edge Prediction, a case study:  predicting links in Wikipedia sites" for the competition: https://www.kaggle.com/competitions/dsaa-2023-competition
 
+![Alt text](plots/framework.png)
+
 ## Installation
 
 The preferred way to install requirements is via anaconda environment:
