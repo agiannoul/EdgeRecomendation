@@ -1,5 +1,6 @@
 # Enhanced Edge Prediction, a case study:  predicting links in Wikipedia sites
 
+## 2nd Place on DSAA 2023 Data Science Competition
 Implementation of the techniques presented in the paper "Enhanced Edge Prediction, a case study:  predicting links in Wikipedia sites" for the competition: https://www.kaggle.com/competitions/dsaa-2023-competition
 
 ## Installation
