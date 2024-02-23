@@ -39,3 +39,18 @@ jupyter-notebook
 **EG_or_D.ipyndb** : Solution using enhanced graph predictions and D predictions with or policy (to run the full pipeline is required to run frist the D.ipyndb and EG.ipyndb pipelines first).
 
 Finally, for **fast reproducibility** of the EG_or_D results use the **EG_or_D_usign_pre_calculated_vectors.ipyndb** which loads pre calculated vectors (from EG and D).
+
+## Cite
+
+```
+@INPROCEEDINGS{10302537,
+  author={Giannoulidis, Apostolos and Mavroudopoulos, Ioannis},
+  booktitle={2023 IEEE 10th International Conference on Data Science and Advanced Analytics (DSAA)}, 
+  title={Enhanced Edge Prediction, a case study: predicting links in Wikipedia sites}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-4},
+  keywords={Measurement;Solid modeling;Encyclopedias;Predictive models;Data science;Data models;Internet;edge prediction;big data;text similarity},
+  doi={10.1109/DSAA60987.2023.10302537}}
+```
